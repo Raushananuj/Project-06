@@ -12,41 +12,8 @@ stores.
 Your job is to build and serve an end-to-end product that delivers this prediction to
 analysts in the finance team.
 ##### Points for Discussion![image](https://github.com/Raushananuj/Project-06/assets/147440048/74d4edff-77d7-4a95-98f6-557953505baa)
-# Introduction
 
-# Problem statement
 
-# Data Summary
-
-# Approach
-
-# Sales with respect to years
-
-# Impact of promo on sales
-
-# Sales with respect to assortment
-
-# Sales with respect to school holiday
-
-# Sales on different days of week
-
-# Sales with respect to store type
-
-# Sales outliers detection and removal
-
-# Checking correlation
-
-# Linear Regression Model
-
-# Decision Tree Regression
-
-# Random Forest Regression
-
-# Important Features
-
-# 6 Building model with deep learning
-
-# Conclusion
 ![image](https://github.com/Raushananuj/Project-06/assets/147440048/7f4ffce3-11f0-476e-84ee-478f55e6c70c)
 
 
