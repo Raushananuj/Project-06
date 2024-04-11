@@ -1,0 +1,13 @@
+channels:
+- defaults
+- conda-forge
+dependencies :
+-python=3.11.9
+mlflow==2.11.1
+notebook
+numpy
+scikit-learn
+matplotlib
+-pip
+-pip:
+scikit-learn==0.24.1

@@ -1,0 +1,60 @@
+2024-02-26 21:47:24,216 - DEBUG - This is a debug message
+2024-02-26 21:47:24,221 - INFO - This is an info message
+2024-02-26 21:47:24,222 - WARNING - This is a warning message
+2024-02-26 21:47:24,222 - ERROR - This is an error message
+2024-02-26 21:47:24,222 - CRITICAL - This is a critical message
+2024-02-26 21:48:57,271 - INFO - Program started.
+2024-02-26 21:48:57,271 - INFO - Starting my_function...
+2024-02-26 21:48:57,271 - INFO - Result: 5.0
+2024-02-26 21:48:57,276 - INFO - Finished my_function.
+2024-02-26 21:48:57,276 - INFO - Program finished.
+2024-02-26 21:49:30,916 - DEBUG - this is debug
+2024-02-26 21:49:51,389 - INFO - this is info
+2024-02-26 21:50:09,808 - WARNING - this is warning
+2024-02-26 21:50:28,646 - ERROR - This is error
+2024-02-26 21:50:49,779 - CRITICAL - this is critical
+2024-03-13 01:25:53,295 - DEBUG - This is a debug message
+2024-03-13 01:25:53,300 - INFO - This is an info message
+2024-03-13 01:25:53,302 - WARNING - This is a warning message
+2024-03-13 01:25:53,304 - ERROR - This is an error message
+2024-03-13 01:25:53,305 - CRITICAL - This is a critical message
+2024-03-13 01:25:53,378 - INFO - Program started.
+2024-03-13 01:25:53,381 - INFO - Starting my_function...
+2024-03-13 01:25:53,384 - INFO - Result: 5.0
+2024-03-13 01:25:53,387 - INFO - Finished my_function.
+2024-03-13 01:25:53,390 - INFO - Program finished.
+2024-03-13 01:25:53,417 - DEBUG - this is debug
+2024-03-13 01:25:53,445 - INFO - this is info
+2024-03-13 01:25:53,466 - WARNING - this is warning
+2024-03-13 01:25:53,486 - ERROR - This is error
+2024-03-13 01:25:53,512 - CRITICAL - this is critical
+2024-04-08 21:00:23,505 - DEBUG - This is a debug message
+2024-04-08 21:00:23,509 - INFO - This is an info message
+2024-04-08 21:00:23,510 - WARNING - This is a warning message
+2024-04-08 21:00:23,514 - ERROR - This is an error message
+2024-04-08 21:00:23,517 - CRITICAL - This is a critical message
+2024-04-08 21:00:23,544 - INFO - Program started.
+2024-04-08 21:00:23,546 - INFO - Starting my_function...
+2024-04-08 21:00:23,547 - INFO - Result: 5.0
+2024-04-08 21:00:23,548 - INFO - Finished my_function.
+2024-04-08 21:00:23,550 - INFO - Program finished.
+2024-04-08 21:00:23,561 - DEBUG - this is debug
+2024-04-08 21:00:23,572 - INFO - this is info
+2024-04-08 21:00:23,586 - WARNING - this is warning
+2024-04-08 21:00:23,596 - ERROR - This is error
+2024-04-08 21:00:23,609 - CRITICAL - this is critical
+2024-04-09 02:07:22,319 - DEBUG - This is a debug message
+2024-04-09 02:07:22,322 - INFO - This is an info message
+2024-04-09 02:07:22,324 - WARNING - This is a warning message
+2024-04-09 02:07:22,327 - ERROR - This is an error message
+2024-04-09 02:07:22,327 - CRITICAL - This is a critical message
+2024-04-09 02:07:22,351 - INFO - Program started.
+2024-04-09 02:07:22,351 - INFO - Starting my_function...
+2024-04-09 02:07:22,351 - INFO - Result: 5.0
+2024-04-09 02:07:22,351 - INFO - Finished my_function.
+2024-04-09 02:07:22,358 - INFO - Program finished.
+2024-04-09 02:07:22,368 - DEBUG - this is debug
+2024-04-09 02:07:22,376 - INFO - this is info
+2024-04-09 02:07:22,393 - WARNING - this is warning
+2024-04-09 02:07:22,401 - ERROR - This is error
+2024-04-09 02:07:22,417 - CRITICAL - this is critical
